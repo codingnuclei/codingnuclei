@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on a cool project called [Kitchenshelf](https://www.kitchenshelf.co.uk/) to help with local and sustainable food!<br>🌱 I’m currently learning Three.js<br>💬  Ask me about anything related to Javascript/Typescript or Angular/React or Serverless in AWS<br>
+🔭 I’m currently working on a cool project called [Kitchenshelf](https://www.kitchenshelf.co.uk/) to help with local and sustainable food!<br>
+🏗️ Maintainer of [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack), a Serverless Framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack!<br>
+🌱 I’m currently learning Three.js<br>💬  Ask me about anything related to Javascript/Typescript or Angular/React or Serverless in AWS<br>
 
 
 ## 🌐 Socials:
